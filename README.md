@@ -17,7 +17,7 @@ Este está sendo construido para a aplicação dos conhecimentos adquiridos pelo
 <br>
 
 <p align="center">
-  <img alt="Portfolio" src=".github/portfolio.jpg.png" width="100%">
+  <img alt="Portfolio" src=".github/portfolio.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
